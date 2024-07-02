@@ -24,7 +24,7 @@ java TypingSpeedTest
 
 Follow the on-screen instructions to select the text type and start the test.
 Example Output
-Welcome to the Typing Speed Test by ProjectGurukul!
+Welcome to the Typing Speed Test by Thulasidharan!
 
 What type of text do you want to type?
 1. Sentence

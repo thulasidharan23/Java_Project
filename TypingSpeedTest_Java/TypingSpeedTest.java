@@ -22,7 +22,7 @@ public class TypingSpeedTest {
         Scanner sc = new Scanner(System.in);
         Random random = new Random();
 
-        System.out.println("Welcome to the Typing Speed Test by ProjectGurukul!");
+        System.out.println("Welcome to the Typing Speed Test by Thulasidharan!");
         System.out.println();
 
         while(true){
